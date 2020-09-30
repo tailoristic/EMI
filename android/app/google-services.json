@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "352213141330",
+    "firebase_url": "https://emi-tracks.firebaseio.com",
+    "project_id": "emi-tracks",
+    "storage_bucket": "emi-tracks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:352213141330:android:a3caee1565388872f09c8b",
+        "android_client_info": {
+          "package_name": "com.example.emi_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "352213141330-qltd1q6tovrmdsomvnivdoivvag2out6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Eky-0tCLmY2wd0DkicL-IOj2aB0SJOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "352213141330-qltd1q6tovrmdsomvnivdoivvag2out6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
